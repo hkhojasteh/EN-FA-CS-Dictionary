@@ -3,6 +3,8 @@ An English-Persian Dictionary of Computer Science and Artificial Intelligence
 
 واژه‌نامهٔ (دیکشنری) تخصصی انگلیسی‌-‌فارسی علوم کامپیوتر و هوش مصنوعی
 
+[![HitCount](http://hits.dwyl.io/hkhojasteh/CS-AI-Dictionary.svg)](http://hits.dwyl.io/hkhojasteh/CS-AI-Dictionary)
+
 واژهٔ انگلیسی | معادل مصوب فرهنگستان | معادل پیشنهادی | معادل (های) دیگر
 :--- | :---: | :---: | :---:
 a posteriori SNR |  | نسبت سيگنال به نويز پسين | 
