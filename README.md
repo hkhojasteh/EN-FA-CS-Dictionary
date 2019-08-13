@@ -5,9 +5,9 @@ An English-Persian Dictionary of Computer Science and Artificial Intelligence
 
 واژهٔ انگلیسی | معادل مصوب فرهنگستان | معادل پیشنهادی | معادل (های) دیگر
 :--- | :---: | :---: | :---:
-a posteriori SNR | نسبت سيگنال به نويز پسين | | 
-a priori | پيشين | | 
-a priori SNR | نسبت سيگنال به نويز پيشين | | 
+a posteriori SNR  | | نسبت سيگنال به نويز پسين |
+a priori  | | پيشين |
+a priori SNR |  | نسبت سيگنال به نويز پيشين |
 abbreviation | کوتهسازی، کوتهنوشت | اختصار | مخفف
 absolute adjective |  | صفت مطلق | صفت قطعی
 absolute discounting | کاستن (تخفيف) مطلق | کاستن قطعی | 
