@@ -2597,11 +2597,23 @@ Zipf 's law |  | قانون زیف |  | هوش مصنوعی
 با مشارکت در تکمیل یا اصلاح فهرست واژگان رشته تخصص خود سهمی در گسترش علم داشته باشید.
 تنها کافیست این فایل را ویرایش کنید و درخواست خود را ثبت کنید. ما در اولین فرصت این فهرست را به روز رسانی می کنیم.
 
-## مشارکت
+## همراهان
 
 <p align="left">
     <a href="https://github.com/hkhojasteh/"><img src="./README_files/hadi.png" alt="Hadi Abdi Khojasteh"></a>
 </p>
+
+<table><tr>
+    <td align="center">
+        <a href="https://github.com/hkhojasteh/">
+        <img src="./README_files/hadi.png" width="auto;" alt="Hadi Abdi Khojasteh"/>
+        <br/>
+        <sub>
+            <b>هادی عبدی خجسته</b>
+        </sub>
+        </a>
+    </td>
+</tr></table>
 
 ## مآخذ
 
