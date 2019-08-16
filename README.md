@@ -1,5 +1,7 @@
 # English-Persian Computer Science Technical Dictionary
 
+## دیکشنری تخصصی انگلیسی‌-‌فارسی علوم کامپیوتر
+
 واژه‌نامهٔ (دیکشنری) انگلیسی‌-‌فارسی تخصصی علوم کامپیوتر شامل معادل های پیشنهادی و مصوب فرهنگستان زبان و ادب فارسی برای لغات تخصصی هوش مصنوعی، الگوریتم و ساختمان داده
 
 [![HitCount](http://hits.dwyl.io/hkhojasteh/CS-AI-Dictionary.svg)](http://hits.dwyl.io/hkhojasteh/CS-AI-Dictionary)
