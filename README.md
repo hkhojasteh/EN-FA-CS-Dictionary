@@ -1,7 +1,6 @@
-# EN-FA-CS-AI-Dictionary
-An English-Persian Dictionary of Computer Science and Artificial Intelligence
+# English-Persian Computer Science Technical Dictionary
 
-واژه‌نامهٔ (دیکشنری) تخصصی انگلیسی‌-‌فارسی علوم کامپیوتر و هوش مصنوعی
+واژه‌نامهٔ (دیکشنری) انگلیسی‌-‌فارسی تخصصی علوم کامپیوتر شامل معادل های پیشنهادی و مصوب فرهنگستان زبان و ادب فارسی برای لغات تخصصی هوش مصنوعی، الگوریتم و ساختمان داده
 
 [![HitCount](http://hits.dwyl.io/hkhojasteh/CS-AI-Dictionary.svg)](http://hits.dwyl.io/hkhojasteh/CS-AI-Dictionary)
 
