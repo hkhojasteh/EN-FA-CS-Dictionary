@@ -2599,10 +2599,6 @@ Zipf 's law |  | قانون زیف |  | هوش مصنوعی
 
 ## همراهان
 
-<p align="left">
-    <a href="https://github.com/hkhojasteh/"><img src="./README_files/hadi.png" alt="Hadi Abdi Khojasteh"></a>
-</p>
-
 <table><tr>
     <td align="center">
         <a href="https://github.com/hkhojasteh/">
