@@ -2629,5 +2629,5 @@ Zipf 's law |  | قانون زیف |  | هوش مصنوعی
 
 <h2 align="right">مجوز استفاده</h2>
 <p dir='rtl'>
-استفاده غیر‌تجاری و با ذکر منبع از این پروژه طبق مجوز <a href="The GNU General Public License v3.0" alt="">GPLv3</a> آزاد است.
+استفاده غیر‌تجاری و با ذکر منبع از این پروژه طبق مجوز <a href="https://github.com/hkhojasteh/EN-FA-CS-Dictionary/blob/master/LICENSE" alt="The GNU General Public License v3.0">GPLv3</a> آزاد است.
 </p>
