@@ -5,7 +5,7 @@ Meaning of computer science technical vocabulary in the Persian language
 <h2 align="right">دیکشنری تخصصی انگلیسی‌-‌فارسی علوم کامپیوتر</h2>
 
 <p align="right">
-	واژه‌نامهٔ (دیکشنری) انگلیسی‌-‌فارسی تخصصی علوم کامپیوتر شامل معادل‌های پیشنهادی و مصوب فرهنگستان زبان و ادب فارسی برای لغات تخصصی هوش مصنوعی، الگوریتم و ساختمان‌داده
+	واژه‌نامهٔ (دیکشنری) انگلیسی‌-‌فارسی تخصصی علوم کامپیوتر شامل معادل‌های پیشنهادی و مصوب فرهنگستان زبان و ادب فارسی برای لغات تخصصی هوش مصنوعی، یادگیری ماشین، الگوریتم و ساختمان‌داده
 </p>
 
 [![HitCount](http://hits.dwyl.io/hkhojasteh/CS-AI-Dictionary.svg)](http://hits.dwyl.io/hkhojasteh/CS-AI-Dictionary)
