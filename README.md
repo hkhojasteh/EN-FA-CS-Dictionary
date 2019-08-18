@@ -2621,6 +2621,15 @@ Zipf 's law |  | قانون زیف |  | هوش مصنوعی
         </sub>
         </a>
     </td>
+    <td align="center">
+        <a href="https://github.com/parsa-abbasi">
+        <img src="./README_files/parsa.png" width="auto;" alt="Parsa Abbasi"/>
+        <br/>
+        <sub>
+            <b>پارسا عبّاسی</b>
+        </sub>
+        </a>
+    </td>
 </tr></table>
 
 <h2 align="right">مآخذ</h2>
