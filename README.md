@@ -3215,7 +3215,7 @@ zoom  |  | بزرگنمایی   |  | پردازش سیگنال
 </tr></table>
 
 <p dir='rtl'>
-آخرین تغییرات را <a href="https://github.com/hkhojasteh/EN-FA-CS-Dictionary/graphs/contributors">دنبال کنید </a>. 
+آخرین تغییرات را <a href="https://github.com/hkhojasteh/EN-FA-CS-Dictionary/graphs/contributors">دنبال کنید</a>. 
 </p>
 
 <h2 align="right">مآخذ</h2>
