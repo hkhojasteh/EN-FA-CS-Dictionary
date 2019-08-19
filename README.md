@@ -3215,11 +3215,8 @@ zoom  |  | بزرگنمایی   |  | پردازش سیگنال
 </tr></table>
 
 <p dir='rtl'>
-و ما را همراهی کنید <a href="https://github.com/hkhojasteh/EN-FA-CS-Dictionary/graphs/contributors"> دنبال کنید </a>آخرین تغییرات را
+آخرین تغییرات را <a href="https://github.com/hkhojasteh/EN-FA-CS-Dictionary/graphs/contributors">دنبال کنید </a>. 
 </p>
-
-
-https://github.com/hkhojasteh/EN-FA-CS-Dictionary/graphs/contributors
 
 <h2 align="right">مآخذ</h2>
 <p align="right">
