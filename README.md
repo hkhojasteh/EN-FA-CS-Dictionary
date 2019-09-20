@@ -2899,6 +2899,7 @@ transducer |  | مبدل |  | الگوریتم و ساختمان‌داده
 transductive  |  | ورارسانی   |  | پردازش سیگنال
 transductive transfer learning  |  | یادگیری انتقالی هدایتی |  | پردازش سیگنال
 transfer |  | انتقال |  | هوش مصنوعی
+transfer learning |  | یادگیری انتقالی |  | هوش مصنوعی
 transform  |  | تبدیل   |  | پردازش سیگنال
 transform domain |  | حوزه تبدیل |  | هوش مصنوعی
 transformational grammar | دستور گشتاری |  |  | هوش مصنوعی
