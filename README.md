@@ -3161,7 +3161,7 @@ zoom  |  | بزرگنمایی   |  | پردازش سیگنال
     </td>
 <td align="center">
         <a href="https://github.com/pourmand1376">
-        <img src="./README_files/amirpourmand.png" width="auto;" alt="Amir Pourmand"/>
+        <img src="./README_files/amir.png" width="auto;" alt="Amir Pourmand"/>
         <br/>
         <sub>
             <b>امیر پورمند</b>
