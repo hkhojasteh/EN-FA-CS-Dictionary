@@ -7,6 +7,13 @@ Meaning of computer science technical vocabulary in the Persian language
 	واژه‌نامهٔ (دیکشنری) انگلیسی‌-‌فارسی تخصصی علوم کامپیوتر شامل معادل‌های پیشنهادی و مصوب فرهنگستان زبان و ادب فارسی برای لغات تخصصی هوش مصنوعی، یادگیری ماشین، پردازش سیگنال، الگوریتم و ساختمان‌داده
 </p>
 
+علاوه بر این در 
+[این](https://github.com/pourmand1376/EN-FA-CS-Dictionary/blob/master/IPL%20Glossary.pdf)
+لینک، لغت نامه پروفسور کسایی 
+از دانشگاه صنعتی شریف نیز وجود دارد که صرفا برای راحتی بیشتر در اینجا اپلود شده است. لغت نامه اصلی ایشان در سایت
+IPL
+شریف وجود دارد. 
+
 [![HitCount](http://hits.dwyl.io/hkhojasteh/CS-AI-Dictionary.svg)](http://hits.dwyl.io/hkhojasteh/CS-AI-Dictionary)
 
 واژهٔ انگلیسی | معادل مصوب فرهنگستان | معادل پیشنهادی | معادل (های) دیگر | رشته
