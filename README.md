@@ -3176,7 +3176,7 @@ zoom  |  | بزرگنمایی   |  | پردازش سیگنال
         <img src="./README_files/mostafa.jpg" width="auto;" alt="Mostafa Najmi"/>
         <br/>
         <sub>
-            <b>مصطفی نحمی</b>
+            <b>مصطفی نجمی</b>
         </sub>
         </a>
     </td>
