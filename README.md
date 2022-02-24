@@ -3171,6 +3171,15 @@ zoom  |  | بزرگنمایی   |  | پردازش سیگنال
         </sub>
         </a>
     </td>
+<td align="center">
+        <a href="https://github.com/mnwato">
+        <img src="./README_files/mostafa.png" width="auto;" alt="Mostafa Najmi"/>
+        <br/>
+        <sub>
+            <b>مصطفی نجمی</b>
+        </sub>
+        </a>
+    </td>
 </tr></table>
 
 <p dir='rtl'>
