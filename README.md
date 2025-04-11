@@ -1229,6 +1229,7 @@ growing |  | افزاینده، رشده کننده |  | پردازش سیگنا
 gru |  | واحد بازگشتی گیتی |  | هوش مصنوعی
 hacker  |  | نفوذكننده   |  | پردازش سیگنال
 hall  |  | پوسته، پوشینه |  | پردازش سیگنال
+hallucination | | توهم | |‌ هوش مصنوعی
 halting problem |  | مسئله‌ی توقف |  | الگوریتم و ساختمان‌داده
 Hamiltonian cycle |  | دور همیلتنی |  | الگوریتم و ساختمان‌داده
 Hamming window |  | پنجره همینگ |  | هوش مصنوعی
@@ -2903,6 +2904,7 @@ transductive transfer learning  |  | یادگیری انتقالی هدایتی 
 transfer |  | انتقال |  | هوش مصنوعی
 transfer learning |  | یادگیری انتقالی |  | هوش مصنوعی
 transform  |  | تبدیل   |  | پردازش سیگنال
+transformer | | مبدل | | هوش مصنوعی
 transform domain |  | حوزه تبدیل |  | هوش مصنوعی
 transformational grammar | دستور گشتاری |  |  | هوش مصنوعی
 transformational rules |  | قواعد گشتاری |  | هوش مصنوعی
