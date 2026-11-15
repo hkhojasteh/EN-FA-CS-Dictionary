@@ -89,6 +89,7 @@ adverb of negation |  |  | قید نفی | هوش مصنوعی
 adverbial phrase |  |  | گروه قیدی | هوش مصنوعی
 adversarial |  | خصمانه |  | هوش مصنوعی
 adversarial learning |  | یادگیری خصمانه |  | هوش مصنوعی
+Adversarial Training |  | آموزش خصمانه |  | هوش مصنوعی
 adversary |  | رقیب |  | الگوریتم و ساختمان‌داده
 affine  |  | هم‌نسبی ، همگر   |  | پردازش سیگنال
 affix | وند |  |  | هوش مصنوعی
@@ -103,6 +104,7 @@ ALGOL (Algorithmic Language) |  | الگول (زبان الگوریتمی) |  | 
 algorithm |  | الگوریتم |  | الگوریتم و ساختمان‌داده
 algorithm B |  | الگوریتم بی |  | الگوریتم و ساختمان‌داده
 aliasing  |  | درهم‌رفتگی  |  | پردازش سیگنال
+Align |  | هم‌تراز کردن |  | هوش مصنوعی
 alignment | تراز، هم‌ردیف‌سازی | هم‌ترازی | ترازبندی | هوش مصنوعی
 alignment  |  | هم‌ترازی  |  | پردازش سیگنال
 all pairs shortest path |  | كوتاه‌ترین مسیر بین هر دو رأس |  | الگوریتم و ساختمان‌داده
@@ -159,6 +161,7 @@ appendix  |  | پیوست   |  | پردازش سیگنال
 application  |  | كاربرد   |  | پردازش سیگنال
 approach  |  | رویكرد   |  | پردازش سیگنال
 approximant |  | ناسوده |  | هوش مصنوعی
+Approximate Nearest Neighbor (ANN) |  | نزدیک‌ترین همسایه تقریبی |  | هوش مصنوعی
 approximate reasoning |  | استدلال تقریبی |  | هوش مصنوعی
 approximation  |  | تقریب   |  | پردازش سیگنال
 approximation algorithm |  | الگوریتم تقریبی |  | الگوریتم و ساختمان‌داده
@@ -201,6 +204,7 @@ asymptotically tight bound |  | كران دقیق مجانبی |  | الگوری
 asynchrony  |  | ناهمزمان   |  | پردازش سیگنال
 attachment ambiguity |  | ابهام وابستگی |  | هوش مصنوعی
 attempt  |  | تلاش   |  | پردازش سیگنال
+Attention Module |  | ماژول توجه |  | هوش مصنوعی
 attribute grammar |  | دستور صفتدار |  | هوش مصنوعی
 attributive |  | اسنادی | وصفی | هوش مصنوعی
 audio-visual |  | سمعی-بصری | صوتی‌صویری | هوش مصنوعی
@@ -276,6 +280,8 @@ based on  |  | مبنی‌بر، براساس  |  | پردازش سیگنال
 basic  |  | بنیانی   |  | پردازش سیگنال
 basis  |  | پایه، مبنا   |  | پردازش سیگنال
 batch |  | دسته‌ای |  | هوش مصنوعی
+Batch Normalization |  | نرمال‌سازی دسته‌ای |  | هوش مصنوعی
+Batch Size |  | اندازه بسته |  | هوش مصنوعی
 Battman |  | بتمن | برک | هوش مصنوعی
 Baum re-estimation algorithm |  | الگوریتم بازتخمین باوم |  | هوش مصنوعی
 Baum-Welch |  | باوم-ولش |  | هوش مصنوعی
@@ -288,6 +294,7 @@ belief operator |  | عملگر باور |  | هوش مصنوعی
 Bellman-Ford algorithm |  | الگوریتم بلمن-فورد |  | الگوریتم و ساختمان‌داده
 benchmark  |  | سنجه    |  | پردازش سیگنال
 Benford's law |  | قانون بن‌فورد |  | الگوریتم و ساختمان‌داده
+Benign |  | خوش‌خیم |  | هوش مصنوعی
 Bessel function |  | تابع بسل |  | هوش مصنوعی
 best first search |  | جست‌وجوی بهتراوّل |  | الگوریتم و ساختمان‌داده
 Best Matching (BM) |  | بهترین تطابق |  | هوش مصنوعی
@@ -302,7 +309,7 @@ biconnected component |  | مؤلفه‌ی دوهمبند |  | الگوریتم 
 biconnected graph |  | گراف دوهمبند |  | الگوریتم و ساختمان‌داده
 bidirectional bubble sort |  | مرتب‌ساز حبابی دوجهته |  | الگوریتم و ساختمان‌داده
 bidirectional LSTM |  | شبکه عصبی حافظه کوتاه-مدت ماندگار دوسویه |  | هوش مصنوعی
-big data |  | کلان‌داده | داده بزرگ | هوش مصنوعی
+big data |  | کلان‌داده | داده بزرگ، داده‌های حجیم | هوش مصنوعی
 big-O notation |  | نماد اُی بزرگ |  | الگوریتم و ساختمان‌داده
 bigram |  | دوتایی |  | هوش مصنوعی
 bilabial | دولبی |  |  | هوش مصنوعی
@@ -422,6 +429,8 @@ cepstrum |  | کپستروم |  | هوش مصنوعی
 certificate |  | گواهی |  | الگوریتم و ساختمان‌داده
 chain | زنجیر | زنجیره |  | هوش مصنوعی
 chain  |  | زنجیره   |  | پردازش سیگنال
+Challenge |  | چالش |  | هوش مصنوعی
+Change of Variable Theorem |  | قضیه تغییر متغیر |  | هوش مصنوعی
 character |  | نویسه | حرف | هوش مصنوعی
 character  |  | نهاد، شخصیت ،نویسه   |  | پردازش سیگنال
 character recognition |  | بازشناسی نویسه | بازشناسی حرف | هوش مصنوعی
@@ -477,7 +486,7 @@ closure | بستار | بست |  | هوش مصنوعی
 cluster | خوشه |  |  | هوش مصنوعی
 cluster  |  | خوشه  |  | پردازش سیگنال
 cluster N-gram |  | N-تایی خوشه‌ای | N-تایی خوشه‌بند | هوش مصنوعی
-clustering | خوشه‌بندی |  |  | هوش مصنوعی
+clustering | خوشه‌بندی |  | خوشه‌بندی کردن | هوش مصنوعی
 clustering  |  | خوشه‌بندی |  | پردازش سیگنال
 clustering coefficient |  | ضریب خوشه بندی |  | هوش مصنوعی
 clutter  |  | درهم‌ریختگی، شلوغی  |  | پردازش سیگنال
@@ -555,6 +564,7 @@ computable |  | محاسبه‌پذیر |  | الگوریتم و ساختمان�
 computable function |  | تابع محاسبه‌پذیر |  | الگوریتم و ساختمان‌داده
 computational  |  | محاسباتی   |  | پردازش سیگنال
 computational linguistics | زبان‌شناسی رایانشی | زبان‌شناسی رایانه‌ای | زبان‌شناسی محاسباتی | هوش مصنوعی
+Computational Pathology |  | پاتولوژی محاسباتی |  | هوش مصنوعی
 computer | رایانه | کامپیوتر |  | هوش مصنوعی
 Computer Vision |  | بینایی کامپیوتر | بینایی رایانه‌ای | هوش مصنوعی
 Computer-Aided Detection (CAD) system |  | سیستم تشخیص کمک رایانه‌ای |  | هوش مصنوعی
@@ -618,6 +628,7 @@ consumption  |  | مصرف   |  | پردازش سیگنال
 contain  |  | دربرداشتن   |  | پردازش سیگنال
 contemporary Persian |  | فارسی معاصر |  | هوش مصنوعی
 content word | واژه محتوایی | کلمه محتوایی |  | هوش مصنوعی
+Content-Based Medical Image Retrieval (CBMIR) |  | بازیابی تصویر پزشکی مبتنی بر محتوا |  | هوش مصنوعی
 content-based recommender system |  | سامانه توصیه‌گر مبتنی بر محتوا |  | هوش مصنوعی
 context | بافت | زمینه | بافتار | هوش مصنوعی
 context  |  | متن   |  | پردازش سیگنال
@@ -636,6 +647,7 @@ Continuous Speech Recognition (CSR) |  | بازشناسی گفتار پیوست�
 contour  |  | كنارهنما    |  | پردازش سیگنال
 contrast  |  | تباین   |  | پردازش سیگنال
 Contrastive Divergence (CD) |  | واگرایی تقابلی | واگرایی متقابل، واگرایی مقابلهای | هوش مصنوعی
+Contrastive Learning (CL) |  | یادگیری تباینی |  | هوش مصنوعی
 control  |  | واپایش، تنظیم   |  | پردازش سیگنال
 conventional metaphors |  | استعاره‌های متداول |  | هوش مصنوعی
 convergence | هم‌گرایی |  |  | هوش مصنوعی
@@ -644,7 +656,7 @@ convex  |  | كوژ، محدب   |  | پردازش سیگنال
 convex hull | غلاف کوژ، غلاف محدب | پوش محدب |  | هوش مصنوعی
 convex optimization |  | بهینه‌سازی محدب |  | هوش مصنوعی
 convolution  |  | پیچش   |  | پردازش سیگنال
-Convolutional Neural Network (CNN/ConvNet) |  | شبکه عصبی پیچشی |  | هوش مصنوعی
+Convolutional Neural Network (CNN/ConvNet) |  | شبکه عصبی پیچشی | شبکه عصبی کانولوشن | هوش مصنوعی
 convolutive |  | پیچشی |  | هوش مصنوعی
 co-occurrence |  | هم‌رخدادی | هم‌وقوعی | هوش مصنوعی
 co-occurrence matrix |  | ماتریس هم‌رخدادی | ماتریس هم‌وقوعی | هوش مصنوعی
@@ -685,7 +697,7 @@ critical filter bank |  | بانک فیلتر بحرانی |  | هوش مصنو�
 critical path problem |  | مسئله‌ی مسیر بحرانی |  | الگوریتم و ساختمان‌داده
 cross  |  | تقاطع   |  | پردازش سیگنال
 cross entropy |  | آنتروپی متقاطع |  | هوش مصنوعی
-cross validation |  | اعتبارسنجی متقاطع |  | هوش مصنوعی
+cross validation |  | اعتبارسنجی متقاطع | اعتبار‌سنجی متقابل | هوش مصنوعی
 crowd sourcing |  | جمع‌سپاری |  | هوش مصنوعی
 cryptography | رمزنگاری |  |  | هوش مصنوعی
 cryptography  |  | رمزنگاری  |  | پردازش سیگنال
@@ -693,6 +705,7 @@ cumulative  |  | تجمعی   |   | پردازش سیگنال
 cursive script |  | دست نویس | متن با خط شکسته یا سرهم | هوش مصنوعی
 curvature  |  | خم، انحناء   |  | پردازش سیگنال
 curve  |  | منحنی   |   | پردازش سیگنال
+Customized Query Approach (CQA) |  | رویکرد پرس‌و‌جو سفارشی |  | هوش مصنوعی
 cut |  | برش |  | الگوریتم و ساختمان‌داده
 cut off  |  | قطع   |   | پردازش سیگنال
 cut vertex |  | رأس برشی |  | الگوریتم و ساختمان‌داده
@@ -701,7 +714,7 @@ cutting theorem |  | قضیه‌ی برشی |  | الگوریتم و ساختم�
 cycle |  | چرخه | دوره | هوش مصنوعی
 DAG shortest paths |  | كوتاه‌ترین مسیرها در گراف بی‌دور جهت‌دار |  | الگوریتم و ساختمان‌داده
 data | داده، داده‌ها |  |  | هوش مصنوعی
-data augmentation |  | تقویت داده |  | هوش مصنوعی
+data augmentation |  | تقویت داده | داده‌افزایی | هوش مصنوعی
 data mining | داده‌کاوی |  |  | هوش مصنوعی
 data processing | داده‌پردازی | پردازش داده |  | هوش مصنوعی
 data structure |  | داده‌ساختار | ساختمان داده | الگوریتم و ساختمان‌داده
@@ -773,7 +786,6 @@ derivational morphological rules |  | قواعد ساخت‌واژی اشتقا�
 derivational morpology |  | ساخت‌واژه اشتقاقی | صرف اشتقاقی | هوش مصنوعی
 derivational words |  | واژه اشتقاقی | کلمات مشتق | هوش مصنوعی
 descendant |  | نواده |  | الگوریتم و ساختمان‌داده
-descriminator |  | جداکننده |  | پردازش سیگنال
 description |  | توصیف |  | هوش مصنوعی
 descriptive model |  | مدل توصیفی |  | هوش مصنوعی
 descriptor |  | توصیف کننده | توصیف‌گر | هوش مصنوعی \| پردازش سیگنال
@@ -808,7 +820,7 @@ dictation software |  | نرم‌افزار دیکته (گفتاری) | نرم�
 dictionary | فرهنگ، واژه‌نامه | لغت‌نامه | فرهنگ لغت، فرهنگ داده‌ای | هوش مصنوعی \| الگوریتم و ساختمان‌داده
 difference |  | تفاضل |  | الگوریتم و ساختمان‌داده
 diffuse |  | منتشر کردن، پراکنده | پخش کردن | هوش مصنوعی \| پردازش سیگنال
-diffusion |  | پراکندگی |  | پردازش سیگنال
+diffusion |  | پراکندگی | انتشاری | پردازش سیگنال
 digital |  | رقمی |  | پردازش سیگنال
 digital signal processing (DSP) |  | پردازش سیگنال دیجیتال | پردازش علائم رقمی | هوش مصنوعی
 digital–to-analog (D/A) |  | رقمی به قیاسی | دیجیتال به آنالوگ | هوش مصنوعی
@@ -817,6 +829,7 @@ digraph |  | گراف جهت‌دار |  | الگوریتم و ساختمان‌
 Dijkstra's algorithm |  | الگوریتم دایكسترا |  | الگوریتم و ساختمان‌داده
 dilation |  | گسترش |  | پردازش سیگنال
 dimension |  | بُعد |  | هوش مصنوعی
+Dimension Reduction |  | کاهش بعد |  | هوش مصنوعی
 diminishing increment sort |  | مرتب‌ساز شانه‌ای  |  | الگوریتم و ساختمان‌داده
 diphone |  | دوواجی | دو آوایی | هوش مصنوعی
 diphthong | واکه مرکب، واکه دوگانه، مصوت مرکب، مصوت دوگانه |  |  | هوش مصنوعی
@@ -837,6 +850,7 @@ discrete p-center |  | p-مركز گسسته |  | الگوریتم و ساختم
 discrimination function |  | تابع جداسازی | تایع تمایز | هوش مصنوعی
 discriminative feature selection |  | انتخاب ویژگی تمایزی |  | هوش مصنوعی
 discriminative model |  | مدل تمایزی |  | هوش مصنوعی
+Discriminator |  | متمایزگر | جداکننده | هوش مصنوعی \| پردازش سیگنال
 discussion |  | بحث |  | پردازش سیگنال
 disfluency |  | ناروانی |  | هوش مصنوعی
 disjoint letters |  | حروف غیر چسبان |  | هوش مصنوعی
@@ -877,6 +891,7 @@ double-direction bubble sort |  | مرتب‌ساز حبابی دوجهته |  |
 doubly linked list |  | لیست پیوندی دوطرفه |  | الگوریتم و ساختمان‌داده
 doubly-ended queue |  | صفِ دوسر |  | الگوریتم و ساختمان‌داده
 down-sampling |  | نمونه کاهی |  | پردازش سیگنال
+Downstream Tasks |  | وظایف پایین‌دستی |  | هوش مصنوعی
 draw |  | رسم |  | پردازش سیگنال
 draw |  | رسم |  | پردازش سیگنال
 dropout |  | حذف تصادفی |  | الگوریتم و ساختمان‌داده
@@ -958,6 +973,7 @@ evaluation  |  | ارزیابی    |  | پردازش سیگنال
 event  |  | رویداد   |  | پردازش سیگنال
 event participants |  | شرکتکنندگان رویداد | شرکتکنندگان رخداد | هوش مصنوعی
 event-oriented |  | رویدادمحور |  | هوش مصنوعی
+Evidence Lower Bound |  | کران پایین شواهد |  | هوش مصنوعی
 evolutionary  |  | تكاملی   |  | پردازش سیگنال
 exchange sort |  | مرتب‌ساز تعویضی |  | الگوریتم و ساختمان‌داده
 excircle |  | دایره محاط بر شکل | دایره محاطی خارجی | هوش مصنوعی
@@ -973,6 +989,7 @@ expectation  |  | توقع، امید ریاضی  |  | پردازش سیگنال
 Expectation-Maximization (EM) |  | امید بیشینه |  | هوش مصنوعی
 experimenter |  | تجربه‌گر | آزمایشگر | هوش مصنوعی
 Explanation-Based Learning (EBL) |  | یادگیری مبتنی بر تشریح |  | هوش مصنوعی
+Exploding Gradient |  | انفجار گرادیان |  | هوش مصنوعی
 exponent | نما | توان |  | هوش مصنوعی
 exponential |  | نمایی |  | الگوریتم و ساختمان‌داده
 exponential  |  | نمائی   |  | پردازش سیگنال
@@ -1026,8 +1043,8 @@ feed back  |  | بازخورد  |  | پردازش سیگنال
 feed forward  |  | پیش‌خورد |  | پردازش سیگنال
 feedback edge |  | یال بازخور (پس‌خورد) |  | الگوریتم و ساختمان‌داده
 feeder link |  | لینک تغذیه‌کننده | اتصال تغذیه‌کننده | هوش مصنوعی
-feedforward |  | پیشرو | روبه‌جلو | هوش مصنوعی
-feedforward neural network |  | شبکه عصبی پیشرو |  | هوش مصنوعی
+feedforward |  | پیشرو | روبه‌جلو، پیش‌خور | هوش مصنوعی
+feedforward neural network |  | شبکه عصبی پیشرو | شبکه عصبی پیش‌خور | هوش مصنوعی
 Ferguson-Forcade algorithm |  | الگوریتم فرگوسن-فُركید |  | الگوریتم و ساختمان‌داده
 Fibonacci number |  | عدد فیبوناچی |  | الگوریتم و ساختمان‌داده
 Fibonacci numbers |  | اعداد فیبوناچی |  | الگوریتم و ساختمان‌داده
@@ -1097,6 +1114,7 @@ forward pass | پیش‌شماری | گذر پیش‌رو | عبور پیش‌ر
 forward-backward |  | پیش‌رو-پس‌رو | جلورو-عقب‌رو | هوش مصنوعی
 forward-backward algorithm |  | الگوریتم پیش‌رو-پس‌رو | الگوریتم جلورو -عقب‌رو | هوش مصنوعی
 foundation  |  | پایه، بنیاد   |  | پردازش سیگنال
+Foundation Model |  | مدل بنیادی |  | هوش مصنوعی
 fractal |  | فركتال |  | الگوریتم و ساختمان‌داده
 fractional knapsack problem |  | مسئله‌ی كوله‌پشتی تقسیم‌پذیر |  | الگوریتم و ساختمان‌داده
 fractional solution |  | جواب كسری |  | الگوریتم و ساختمان‌داده
@@ -1124,6 +1142,7 @@ full array |  | آرایه‌ی پر |  | الگوریتم و ساختمان‌�
 full binary tree |  | درخت دودویی پر |  | الگوریتم و ساختمان‌داده
 full vowel |  | واکه تام |  | هوش مصنوعی
 fully connected |  | تمام متصل | کاملاً متصل | هوش مصنوعی
+Fully Connected Layer |  | لایه کاملاً متصل |  | هوش مصنوعی
 fully dynamic graph problem |  | مسئله‌ی گرافِ كاملاً پویا |  | الگوریتم و ساختمان‌داده
 fully persistent data structure |  | داده‌ساختار تمام‌ماندگار |  | الگوریتم و ساختمان‌داده
 fully polynomial approximation scheme |  | شمای تقریب كاملاً چندجمله‌ای |  | الگوریتم و ساختمان‌داده
@@ -1144,6 +1163,7 @@ fuzzy relations |  | روابط فازی |  | هوش مصنوعی
 fuzzy rules |  | قوانین فازی |  | هوش مصنوعی
 fuzzy set |  | تابع فازی |  | الگوریتم و ساختمان‌داده
 fuzzy similarity |  | شباهت فازی | تشابه فازی | هوش مصنوعی
+Gabor Wavelet |  | موجک گابور |  | هوش مصنوعی
 gain | بهره |  |  | هوش مصنوعی
 gain adapted enhancement |  | به‌سازی تطبیق به بهره |  | هوش مصنوعی
 gain adapted training |  | آموزش تطبیق به بهره |  | هوش مصنوعی
@@ -1166,11 +1186,11 @@ Generalizability |  | قابلیت تعمیم |  | هوش مصنوعی
 generalization |  | تعمیم |  | پردازش سیگنال
 generalized |  | تعمیم‌یافته |  | پردازش سیگنال
 Generalized Phrase Structure Grammar (GPSG) |  | دستور ساخت‌گروهی تعمیم‌یافته |  | هوش مصنوعی
-generative |  | شبکه (عصبی) مولد خصمانه |  | پردازش سیگنال
-Generative adversarial network
+Generative Adversarial Network |  | شبکه مولد خصمانه | شبکه (عصبی) مولد خصمانه | هوش مصنوعی \| پردازش سیگنال
 generative grammar | دستور زایشی |  |  | هوش مصنوعی
 generative lexicon |  | واژگان زایا |  | هوش مصنوعی
 generative syntax |  | نحو زایشی |  | هوش مصنوعی
+Generator |  | مولد |  | هوش مصنوعی
 generic |  | کلی | عمومی | هوش مصنوعی
 genetic algorithm |  | الگوریتم ژنتیک |  | هوش مصنوعی
 genitive | اضافه | مضاف‌الیه |  | هوش مصنوعی
@@ -1207,15 +1227,24 @@ grammatical role |  | نقش دستوری |  | هوش مصنوعی
 grammatical tagging |  | برچسب‌زنی دستوری |  | هوش مصنوعی
 granulation | ریزدانه‌سازی، ریزدانه‌ای شدن | سطح‌گذاری |  | هوش مصنوعی
 graph |  | گراف | نمودار | الگوریتم و ساختمان‌داده \| پردازش سیگنال
+Graph Augmentation |  | افزایش گراف |  | هوش مصنوعی
+Graph Autoencoder (GAE) |  | خودرمزگذار گراف |  | هوش مصنوعی
 graph coloring |  | رنگ‌آمیزی گراف |  | الگوریتم و ساختمان‌داده
+Graph Construction |  | ساخت گراف |  | هوش مصنوعی
+Graph Convolutional Network (GCN) |  | شبکه کانولوشنی گراف |  | هوش مصنوعی
 graph drawing |  | ترسیم گراف |  | الگوریتم و ساختمان‌داده
+Graph Fourier Transform (GFT) |  | تبدیل فوریه گراف |  | هوش مصنوعی
 graph isomorphism |  | یك‌ریختی گراف‌ها |  | الگوریتم و ساختمان‌داده
+Graph Isomorphism Test |  | آزمایش هم‌ریختی گراف |  | هوش مصنوعی
+Graph Neural Network (GNN) |  | شبکه عصبی گراف |  | هوش مصنوعی
 graph partition |  | افراز گراف |  | الگوریتم و ساختمان‌داده
+Graph Representation Learning |  | یادگیری نمایش گراف |  | هوش مصنوعی
+Graph Signal Processing (GSP) |  | پردازش سیگنال گراف |  | هوش مصنوعی
 grapheme | تک‌نگاره | نویسه |  | هوش مصنوعی
 grapheme- to-phoneme conversion |  | تبدیل نگاره به واج | تبدیل نویسه به واج | هوش مصنوعی
 grave |  | بم |  | هوش مصنوعی
 graveness |  | بمی |  | هوش مصنوعی
-gray level co-occurrence matrix |  | ماتریس هم‌رخدادی سطح خاکستری |  | هوش مصنوعی
+gray level co-occurrence matrix |  | ماتریس هم‌رخدادی سطح خاکستری | ماتریس هم‌رخداد سطح خاکستری | هوش مصنوعی
 gray-level |  | سطح خاکستری |  | پردازش سیگنال
 greatest common denominator (GCD) |  | بزرگ‌ترین مخرج مشترك |  | الگوریتم و ساختمان‌داده
 greatest common divisor |  | بزرگ‌ترین مقسوم‌علیه مشترك |  | الگوریتم و ساختمان‌داده
@@ -1233,6 +1262,7 @@ halting problem |  | مسئله‌ی توقف |  | الگوریتم و ساخت�
 Hamiltonian cycle |  | دور همیلتنی |  | الگوریتم و ساختمان‌داده
 Hamming window |  | پنجره همینگ |  | هوش مصنوعی
 Hamza |  | همزه |  | هوش مصنوعی
+Handcrafted |  | دست‌ساز |  | هوش مصنوعی
 handwriting  |  | دست‌نوشته |  | پردازش سیگنال
 handwriting recognition |  | بازشناسی دست‌نوشته | تشخیص دست‌نوشته | هوش مصنوعی
 handwritten text |  | متن دست‌نویس |  | هوش مصنوعی
@@ -1267,7 +1297,8 @@ high dimensionality |  | ابعاد بالا |  | هوش مصنوعی
 high front |  | پیشین افراشته |  | هوش مصنوعی
 high pass  |  | بالاگذر   |  | پردازش سیگنال
 High-Pass Filter (HPF) | پالایه بالاگذر (پابگ) | فیلتر بالاگذر |  | هوش مصنوعی
-histogram  |  | بافت‌نگار  |  | پردازش سیگنال
+histogram  |  | بافت‌نگار  | هیستوگرام | پردازش سیگنال
+Histogram of Oriented Gradients (HOG) |  | هیستوگرام گرادیان‌های جهت‌دار |  | هوش مصنوعی
 histogram sort |  | مرتب‌ساز نمودار ستونی |  | الگوریتم و ساختمان‌داده
 histogram-based method |  | روش مبتنی بر هیستوگرام |  | هوش مصنوعی
 hit list |  | لیست کاندید |  | هوش مصنوعی
@@ -1278,6 +1309,7 @@ homogenous  |  | همگن، متجانس   |  | پردازش سیگنال
 homograph | هم‌نگاره | هم‌نویسه |  | هوش مصنوعی
 homomorphic |  | هم‌ریخت |  | الگوریتم و ساختمان‌داده
 homonym | همنام |  |  | هوش مصنوعی
+Homophily Assumption |  | فرض هموفیلی |  | هوش مصنوعی
 homophone | هم‌آوا |  |  | هوش مصنوعی
 horizontal visibility map |  | نقشه‌ی دید افقی |  | الگوریتم و ساختمان‌داده
 Horner's rule |  | قانون هورنر |  | الگوریتم و ساختمان‌داده
@@ -1306,6 +1338,7 @@ illumination  |  | شدت روشنایی   |  | پردازش سیگنال
 illustration  |  | مصورسازی   |  | پردازش سیگنال
 Image | تصویر |  |  | پردازش سیگنال \| هوش مصنوعی 
 Image Captioning |  | توصیف متنی تصویر |  | هوش مصنوعی
+Image Retrieval |  | بازیابی تصویر |  | هوش مصنوعی
 immediate constituent analysis | تجزیه سازهای بالفصل |  |  | هوش مصنوعی
 impact factor |  | ضریب تاثیر |  | هوش مصنوعی
 imperative |  | امری |  | هوش مصنوعی
@@ -1336,6 +1369,7 @@ indicatve |  | اخباری |  | هوش مصنوعی
 Indo-European languages (IE) |  | زبان‌های هند و اروپایی |  | هوش مصنوعی
 Indo-Iranian |  | هند و ایرانی |  | هوش مصنوعی
 inductive  |  | استنتاجی   |  | پردازش سیگنال
+Inductive Graph |  | گراف استقرائی |  | هوش مصنوعی
 inductive learning |  | یادگیری استقرایی |  | هوش مصنوعی
 inductive transfer learning |  | یادگیری انتقالی استقرایی |  | هوش مصنوعی
 inference | استنباط | استنتاج | برداشت | پردازش سیگنال \| هوش مصنوعی 
@@ -1457,7 +1491,7 @@ keywords  |  | كلید واژگان  |  | پردازش سیگنال
 k-fold cross validation |  | اعتبارسنجی متقاطع k-بخشی | اعتبارسنجی متقاطع k-تایی | هوش مصنوعی
 Klatt synthesizer |  | گفتارساز کالت | سنتزکننده کالت | هوش مصنوعی
 Kleene star |  | ستاره کلین | ستاره کلینی | هوش مصنوعی
-K-nearest neighbors |  | نزدیکترین K همسایه |  | هوش مصنوعی
+K-nearest neighbors |  | نزدیکترین K همسایه | K نزدیک‌ترین همسایه | هوش مصنوعی
 knowledge base |  | پایگاه دانش | دانش محور | هوش مصنوعی
 knowledge representation |  | بازنمایی دانش | نمایش دانش | هوش مصنوعی
 Koenigsberg bridges |  | پل‌های كونیگسبرگ |  | الگوریتم و ساختمان‌داده
@@ -1485,6 +1519,7 @@ language model |  | مدل زبانی |  | هوش مصنوعی
 language processing |  | پردازش زبان |  | هوش مصنوعی
 language resources |  | منابع زبانی |  | هوش مصنوعی
 laplace distribution |  | توزیع الپالس |  | هوش مصنوعی
+Large Language Model |  | مدل‌های زبانی بزرگ |  | هوش مصنوعی
 large vocabulary |  | واژگان بزرگ |  | هوش مصنوعی
 laryngogram |  | حنجره نگاشت |  | هوش مصنوعی
 larynx |  | حنجره |  | هوش مصنوعی
@@ -1495,6 +1530,7 @@ latent  |  | ناپیدا   |  | پردازش سیگنال
 latent concept |  | مفهوم پنهان |  | هوش مصنوعی
 latent semantic analysis (LSA) |  | تحلیل معنایی پنهان |  | هوش مصنوعی
 latent semantic indexing |  | نمایه‌سازی معنایی پنهان |  | هوش مصنوعی
+Latent Space |  | فضای نهان |  | هوش مصنوعی
 latent topic |  | عنوان پنهان |  | هوش مصنوعی
 latent variable | متغیر نهان | متغیر پنهان |  | هوش مصنوعی
 lateral | کناری |  |  | هوش مصنوعی
@@ -1632,6 +1668,7 @@ macro |  | درشت | کلان | هوش مصنوعی
 Magnetic Resonance Imaging (MRI) | تصویربرداری تشدید مغناطیسی | تصویربرداری MRI |  | هوش مصنوعی
 magnitude |  | بزرگی | اندازه | هوش مصنوعی
 main verbs |  | افعال اصلی |  | هوش مصنوعی
+Malignant |  | بدخیم |  | هوش مصنوعی
 Manhattan distance |  | فاصله‌ی منهتنی |  | الگوریتم و ساختمان‌داده
 manifold |  | خمیده | خمینه | پردازش سیگنال
 manner adverb |  | قید حالت |  | هوش مصنوعی
@@ -1702,6 +1739,7 @@ meronym | جزءواژه |  |  | هوش مصنوعی
 meronymy | جزءواژگی |  |  | هوش مصنوعی
 mesh |  | توری |  | پردازش سیگنال
 message |  | پیام |  | هوش مصنوعی
+Message Passing |  | پیام‌رسانی |  | هوش مصنوعی
 metamorphosis |  | دگرگونی | دگردیسی | هوش مصنوعی
 metaphor | استعاره |  |  | هوش مصنوعی
 method |  | روش، شیوه |  | پردازش سیگنال
@@ -1832,6 +1870,7 @@ negative class |  | دسته منفی |  | هوش مصنوعی
 negative imperative verb |  | فعل نهی | فعل امر منفی | هوش مصنوعی
 negative transfer |  | انتقال منفی |  | هوش مصنوعی
 neighborhood |  | همسایگی |  | پردازش سیگنال
+Neighborhood Aggregation |  | تجمع همسایگی |  | هوش مصنوعی
 nested |  | تودرتو |  | پردازش سیگنال
 network |  | شبکه |  | پردازش سیگنال
 network flow |  | شاره‌ی شبكه |  | الگوریتم و ساختمان‌داده
@@ -1881,7 +1920,9 @@ non-superlative |  | غیرعالی |  | هوش مصنوعی
 non-terminal |  | غیرپایانه |  | هوش مصنوعی
 non-verbal element |  | عنصر غیرفعلی |  | هوش مصنوعی
 normal |  | نرمال | عادی، هنجار | هوش مصنوعی \| پردازش سیگنال
+Normal Distribution |  | توزیع نرمال |  | هوش مصنوعی
 normalization |  | نرمال‌سازی | بهنجارسازی، عادی‌سازی، هنجار‌سازی | هوش مصنوعی \| پردازش سیگنال
+Normalization Layer |  | لایه نرمال‌سازی |  | هوش مصنوعی
 normalizer | بهنجارساز | نرمال‌ساز |  | هوش مصنوعی
 normative | هنجاری | هنجارگذار |  | هوش مصنوعی
 not |  | چنین نیست كه |  | الگوریتم و ساختمان‌داده
@@ -1928,6 +1969,7 @@ onset |  | آغازه |  | هوش مصنوعی
 ontology |  | هستان‌شناسی | آنتولوژی، هستی‌شناسی | هوش مصنوعی
 opaque | کدر | مبهم |  | هوش مصنوعی
 open domain |  | دامنه باز | دامنه نامحدود | هوش مصنوعی
+Open-source |  | متن‌باز |  | هوش مصنوعی
 opening |  | گشودن |  | پردازش سیگنال
 operator | عملگر | عامل |  | هوش مصنوعی \| پردازش سیگنال
 opinion |  | نظر | عقیده | هوش مصنوعی
@@ -1975,6 +2017,8 @@ out-degree |  | درجه‌ی خروجی |  | الگوریتم و ساختمان
 outlier |  | پرت |  | پردازش سیگنال
 output gate |  | دروازه خروجی |  | هوش مصنوعی
 outputting |  | برونداد | خروجی | هوش مصنوعی
+Over-smoothing |  | بیش‌هموارسازی |  | هوش مصنوعی
+Over-squashing |  | بیش‌فشردگی |  | هوش مصنوعی
 overall performance |  | کارایی کلی | عملکرد کلی | هوش مصنوعی
 overdetermined |  | فرامعین |  | هوش مصنوعی
 overestimation |  | فراتخمین | تخمین افراطی | هوش مصنوعی
@@ -2038,7 +2082,8 @@ path length |  | طول مسیر |  | هوش مصنوعی
 patient | کنش‌پذیر، پذیرا |  |  | هوش مصنوعی
 pattern | الگو |  |  | پردازش سیگنال \| هوش مصنوعی 
 pattern matching |  | تطبیق الگو | تطابق الگو | هوش مصنوعی
-pattern recognition |  | بازشناسی الگو | تشخیص الگو | هوش مصنوعی
+pattern recognition |  | بازشناسی الگو | تشخیص الگو، شناسایی الگو | هوش مصنوعی
+Patterning |  | الگو‌برداری |  | هوش مصنوعی
 peak |  | قله | اوج | هوش مصنوعی
 peak  |  | نوك، قله   |  | پردازش سیگنال
 pectoral muscle |  | ماهیچه پکتورال | ماهیچه سینهای | هوش مصنوعی
@@ -2098,6 +2143,7 @@ pitch accent | تکیه زیر و بمی |  |  | هوش مصنوعی
 pitch contour |  | منحنی گام | منحنی زیر و بمی | هوش مصنوعی
 pitch onset |  | آغازه گام |  | هوش مصنوعی
 Pitch Synchronous Overlap and Add (PSOLA) |  | هم‌پوشانی و جمع همزمان با گام |  | هوش مصنوعی
+Pixel Different Vector |  | بردار اختلاف پیکسل |  | هوش مصنوعی
 place of articulation | جایگاه تولید | محل تولید | واج‌گاه | هوش مصنوعی
 plagiarism  |  | دستبرد فكری، تقلب علمی   |  | پردازش سیگنال
 plain word |  | واژه واضح |  | هوش مصنوعی
@@ -2131,7 +2177,7 @@ polynomial-time reduction |  | كاهش زمان‌چندجمله‌ای |  | ا
 polyphase merge |  | ادغام چندمرحله‌ای |  | الگوریتم و ساختمان‌داده
 polyphase merge sort |  | مرتب‌ساز ادغامی چندمرحله‌ای |  | الگوریتم و ساختمان‌داده
 polysemy | چندمعنایی |  |  | هوش مصنوعی
-pooling layer | لایه تجمعی |  |  | هوش مصنوعی
+pooling layer | لایه تجمعی |  | لایه تجمیع | هوش مصنوعی
 POS tag |  | برچسب اجزا کلام | برچسب پاره‌گفتار | هوش مصنوعی
 POS tagger |  | برچسب‌زن اجزاء کلام | برچسب‌زن پاره‌گفتار | هوش مصنوعی
 pose  |  | حالت   |  | پردازش سیگنال
@@ -2180,12 +2226,13 @@ present perfect morpheme |  | تکواژ ماضی نقلی |  | هوش مصنو�
 present stem |  | بن مضارع |  | هوش مصنوعی
 presentation  |  | ارائه   |  | پردازش سیگنال
 preterit |  | گذشته ساده |  | هوش مصنوعی
+Pretrained |  | از پیش آموزش داده شده |  | هوش مصنوعی
 primary verbs |  | افعال اصلی | افعال پایه | هوش مصنوعی
 primitive decomposition |  | تجزیه اولیه | تجزیه آغازین | هوش مصنوعی
 primitive recursive |  | بازگشتی اصلی |  | الگوریتم و ساختمان‌داده
 Prim's algorithm |  | الگوریتم پریم |  | الگوریتم و ساختمان‌داده
 principal  |  | اساسی  |  | پردازش سیگنال
-Principal Component Analysis (PCA) |  | تحلیل اجزای اصلی | تحلیل مولفه‌های اصلی | هوش مصنوعی
+Principal Component Analysis (PCA) |  | تحلیل اجزای اصلی | تحلیل مولفه‌های اصلی، تحلیل مؤلفه اصلی | هوش مصنوعی
 prior  |  | پیشین، قبلی   |  | پردازش سیگنال
 prior probability | احتمال پیشینی | احتمال پیشین |  | هوش مصنوعی
 priority queue |  | صف اولویت |  | الگوریتم و ساختمان‌داده
@@ -2289,6 +2336,7 @@ random attack |  | تهاجم تصادفی |  | هوش مصنوعی
 random network |  | شبکه تصادفی |  | هوش مصنوعی
 random number |  | اعداد تصادفی |  | الگوریتم و ساختمان‌داده
 random number generator (RNG) |  | مولد اعداد تصادفی |  | الگوریتم و ساختمان‌داده
+Random Walk |  | گام تصادفی |  | هوش مصنوعی
 randomization |  | تصادفی‌سازی |  | الگوریتم و ساختمان‌داده
 randomized algorithm |  | الگوریتم تصادفی |  | الگوریتم و ساختمان‌داده
 randomized complexity |  | پیچیدگی تصادفی‌ |  | الگوریتم و ساختمان‌داده
@@ -2302,6 +2350,7 @@ ratio  |  | نسبت    |  | پردازش سیگنال
 Rayleigh Distribution |  | توزیع رایلی |  | هوش مصنوعی
 r-colored vowel / retroflex vowel |  | واکه برگشتی |  | هوش مصنوعی
 reachable |  | قابل دست‌یابی |  | الگوریتم و ساختمان‌داده
+Readout |  | بازخوانی |  | هوش مصنوعی
 real  |  | حقیقی  |  | پردازش سیگنال
 Real Time Recurrent Learning (RTRL) |  | یادگیری بازگشتی بلادرنگ |  | هوش مصنوعی
 reality  |  | واقعیت   |  | پردازش سیگنال
@@ -2312,6 +2361,7 @@ recognition | بازشناسی | تشخیص |  | پردازش سیگنال \| ه
 recognition rate |  | نرخ بازشناسی |  | هوش مصنوعی
 recognized |  | بازشناسی شده |  | هوش مصنوعی
 recognizer |  | تشخیص‌دهنده (شناسنده) |  | الگوریتم و ساختمان‌داده
+Recommendation System |  | سیستم توصیه |  | هوش مصنوعی
 recommender system |  | سیستم توصیه‌گر |  | هوش مصنوعی
 reconstruction  |  | بازسازی  |  | پردازش سیگنال
 Reconstruct Matrix Constraint  |  | ماتریس بازسازی ضرایب |  | هوش مصنوعی
@@ -2345,6 +2395,7 @@ reflexive |  | بازتاب |  | الگوریتم و ساختمان‌داده
 reflexive pronoun |  | ضمیر انعکاسی |  | هوش مصنوعی
 reformulation |  | فرموله‌سازی دوباره |  | هوش مصنوعی
 region  |  | ناحیه   |  | پردازش سیگنال
+Region of Interest (ROI) |  | منطقه مورد نظر |  | هوش مصنوعی
 register | ثبات، سیاق، منطقه صوتی |  |  | هوش مصنوعی
 registration  |  | انطباق، ثبت  |  | پردازش سیگنال
 regular |  | منظم | باقاعده | پردازش سیگنال \| هوش مصنوعی 
@@ -2355,6 +2406,7 @@ regular network |  | شبکه منظم |  | هوش مصنوعی
 regularization |  | منظم‌سازی | تنظیم | هوش مصنوعی
 regulations  |  | مقررات  |  | پردازش سیگنال
 reinforcement  |  | تقویت   |  | پردازش سیگنال
+Reinforcement Learning |  | یادگیری تقویتی |  | هوش مصنوعی
 reject  |  | وازدگی   |  | پردازش سیگنال
 related question extraction |  | استخراج پرسشهای مرتبط |  | هوش مصنوعی
 relation |  | رابطه |  | الگوریتم و ساختمان‌داده \| پردازش سیگنال 
@@ -2372,6 +2424,7 @@ reliability  |  | اعتبار   |  | پردازش سیگنال
 remote  |  | از دور   |  | پردازش سیگنال
 removal  |  | برداشت، حذف   |  | پردازش سیگنال
 renew  |  | نوسازی  |  | پردازش سیگنال
+Reparameterization Trick |  | ترفند بازپارامتری‌سازی |  | هوش مصنوعی
 replace  |  | تعویض   |  | پردازش سیگنال
 representation | بازنمود، نمایش | بازنمایی |  | پردازش سیگنال \| هوش مصنوعی 
 representative vector |  | بردار نماینده |  | هوش مصنوعی
@@ -2461,15 +2514,17 @@ segment concatenation | سلسله‌بندی قطعات | اتصال قطعات
 segmental |  | قطعه‌ای |  | هوش مصنوعی
 segmental K-means algorithm |  | الگوریتم K میانگین قطعه‌ای |  | هوش مصنوعی
 segmental SNR |  | نسبت سیگنال به نویز قطعه‌ای |  | هوش مصنوعی
-segmentation | تقطیع | مرزبندی | ناحیه‌بندی، بخش‌بندی | پردازش سیگنال \| هوش مصنوعی 
+segmentation | تقطیع | مرزبندی | ناحیه‌بندی، بخش‌بندی، قطعه‌بندی | پردازش سیگنال \| هوش مصنوعی 
 selected | گزیده | انتخابی |  | هوش مصنوعی
 selection sort |  | مرتب‌ساز انتخابی |  | الگوریتم و ساختمان‌داده
 selectional preferences |  | اولویت‌های گزینشی |  | هوش مصنوعی
 selectional restrictions |  | محدودیت‌های گزینشی |  | هوش مصنوعی
 Self Organizing Map (SOM) |  | نگاشت خود سازمانده |  | هوش مصنوعی
+Self-attention |  | خودتوجه |  | هوش مصنوعی
 self-connected |  | خودمتصل |  | هوش مصنوعی
 self-loop |  | طوقه |  | الگوریتم و ساختمان‌داده
 self-organizing  |  | خودسازماندهی |  | پردازش سیگنال
+Self-supervised |  | خودنظارت |  | هوش مصنوعی
 self-taught learning  |  | یادگیری خودآموز |  | پردازش سیگنال
 self-tuning  |  | خود میزان |  | پردازش سیگنال
 semantic |  | معنایی |  | پردازش سیگنال \| هوش مصنوعی 
@@ -2531,6 +2586,7 @@ shot  |  | نما   |  | پردازش سیگنال
 shrink  |  | درهم‌شدگی  |  | پردازش سیگنال
 sibilant |  | صفیری |  | هوش مصنوعی
 Sierpinski triangle |  | مثلث سرپینسكی |  | الگوریتم و ساختمان‌داده
+Sign Function |  | تابع علامت |  | هوش مصنوعی
 signal |  | سیگنال | علامت | پردازش سیگنال \| هوش مصنوعی 
 signal separation (SS) |  | جداسازی سیگنال |  | هوش مصنوعی
 signal subspace |  | زیرفضای سیگنال |  | هوش مصنوعی
@@ -2540,6 +2596,7 @@ silence |  | سکوت |  | هوش مصنوعی
 silent Heh |  | های غیرملفوظ |  | هوش مصنوعی
 silhouette  |  | سایه‌نما  |  | پردازش سیگنال
 similarity  |  | شباهت   |  | پردازش سیگنال
+Similarity Distance Retrieval (SDR) |  | بازیابی مبتنی بر شباهت فاصله |  | هوش مصنوعی
 simple merge |  | ادغام ساده |  | الگوریتم و ساختمان‌داده
 simple path |  | مسیر ساده |  | الگوریتم و ساختمان‌داده
 simple present |  | حال ساده | مضارع ساده | هوش مصنوعی
@@ -2562,6 +2619,7 @@ sinking sort |  | مرتب‌ساز فروبرنده |  | الگوریتم و س
 size  |  | اندازه  |  | پردازش سیگنال
 skeleton |  | اسکلت |  | هوش مصنوعی
 skew symmetry |  | تقارن چپ |  | الگوریتم و ساختمان‌داده
+Skip Connections |  | اتصالات عبوری |  | هوش مصنوعی
 skip gram |  | چندتایی پرشی |  | هوش مصنوعی
 skip n-gram |  | Nتایی پرشی |  | هوش مصنوعی
 slash | کج‌خط | ممیز |  | هوش مصنوعی
@@ -2580,6 +2638,7 @@ software | نرم‌افزار |  |  | هوش مصنوعی
 solidity |  | استواری |  | هوش مصنوعی
 solvable |  | حل‌پذیر |  | الگوریتم و ساختمان‌داده
 sonorant | رسا |  |  | هوش مصنوعی
+Spectral Convolution |  | کانولوشن طیفی |  | هوش مصنوعی
 Sørensen-Dice similarity coefficient | ضریب تشابه سورنسن-دایس |  |  | هوش مصنوعی
 sorting algorithm |  | الگوریتم مرتب‌سازی |  | الگوریتم و ساختمان‌داده
 Sound Pressure Level (SPL) |  | سطح فشار صدا |  | هوش مصنوعی
@@ -2595,7 +2654,7 @@ sparse |  | تنک |  | پردازش سیگنال \| هوش مصنوعی
 sparse graph |  | گراف خلوت |  | الگوریتم و ساختمان‌داده
 sparse matrix |  | ماتریس خلوت |  | الگوریتم و ساختمان‌داده
 sparsification |  | خلوت‌سازی |  | الگوریتم و ساختمان‌داده
-spatial  |  | مكانی   |  | پردازش سیگنال
+spatial  |  | مكانی   | فضا | پردازش سیگنال
 spatial filter |  | فیلتر فضایی |  | هوش مصنوعی
 speaker |  | گوینده | گویشور | هوش مصنوعی
 Speaker Dependent (SD) |  | وابسته به گوینده |  | هوش مصنوعی
@@ -2603,7 +2662,7 @@ speaker identification |  | تشخیص گوینده |  | هوش مصنوعی
 Speaker Independent (SI) |  | مستقل از گوینده |  | هوش مصنوعی
 speaker verification |  | تصدیق گوینده |  | هوش مصنوعی
 specialist lexicon |  | واژگان تخصصی |  | هوش مصنوعی
-spectral  |  | طیفی   |  | پردازش سیگنال
+spectral  |  | طیفی   | طیف | پردازش سیگنال
 spectral detection |  | آشکارسازی طیف |  | هوش مصنوعی
 Spectral Subtraction (SS) |  | تفریق طیفی |  | هوش مصنوعی
 spectrogram |  | طیفنگاشت | اسپکتروگرام | هوش مصنوعی
@@ -2893,12 +2952,14 @@ traditional  |  | سنتی  |  | پردازش سیگنال
 train |  | آموزش | آموزش دادن | هوش مصنوعی
 training |  | آموزش |  | هوش مصنوعی
 training data |  | داده آموزش | داده آموزشی | هوش مصنوعی
+Training Set |  | مجموعه آموزش |  | هوش مصنوعی
 training-based |  | مبتنی بر آموزش |  | هوش مصنوعی
 trajectory  |  | مسیر   |  | پردازش سیگنال
 transaction  |  | تراكنش   |  | پردازش سیگنال
 transcription | رونویسی، ترانوشت، ترانویسی | رونوشت |  | هوش مصنوعی
 transducer |  | مبدل |  | الگوریتم و ساختمان‌داده
 transductive  |  | ورارسانی   |  | پردازش سیگنال
+Transductive Graph |  | گراف تبدیلی |  | هوش مصنوعی
 transductive transfer learning  |  | یادگیری انتقالی هدایتی |  | پردازش سیگنال
 transfer |  | انتقال |  | هوش مصنوعی
 transfer learning |  | یادگیری انتقالی |  | هوش مصنوعی
@@ -2908,6 +2969,7 @@ transformational grammar | دستور گشتاری |  |  | هوش مصنوعی
 transformational rules |  | قواعد گشتاری |  | هوش مصنوعی
 transformational theory |  | نظریه گشتاری |  | هوش مصنوعی
 transformation-based |  | مبتنی بر تبدیل | تبدیل بنیاد | هوش مصنوعی
+Transformer |  | تبدیل‌کننده |  | هوش مصنوعی
 transient  |  | گذرا  |  | پردازش سیگنال
 transient noise pulses |  | ضربه‌های نویز گذرا |  | هوش مصنوعی
 transition | واگشت | انتقال | گذار، گذر (تغییر وضعیت) | الگوریتم و ساختمان‌داده \| پردازش سیگنال \| هوش مصنوعی 
@@ -3016,11 +3078,12 @@ validation |  | اعتبارسنجی |  | هوش مصنوعی
 valley |  | دره |  | هوش مصنوعی
 valley  |  | فرورفتگی، دره   |  | پردازش سیگنال
 vanishing  |  | میراشونده   |  | پردازش سیگنال
-vanishing gradient |  | محو گرادیان |  | هوش مصنوعی
+vanishing gradient |  | محو گرادیان | محو شدگی گرادیان | هوش مصنوعی
 variable  |  | متغیر   |  | پردازش سیگنال
 variable-length N-gram |  | N-تایی با طول متغیر |  | هوش مصنوعی
 variance  |  | پراكندگی، انحراف    |  | پردازش سیگنال
 variation | دگرش، دگره |  |  | هوش مصنوعی
+Variational |  | وردشی |  | هوش مصنوعی \| پردازش سیگنال
 vector  |  | بردار   |  | پردازش سیگنال
 Vector Quantization (VQ) |  | چندیسازی برداری |  | هوش مصنوعی
 vector space model |  | مدل فضای بردار |  | هوش مصنوعی
@@ -3043,7 +3106,6 @@ vertex cover |  | پوشش رأسی |  | الگوریتم و ساختمان‌د
 vertex set |  | مجموعه‌ی رأس‌ها |  | الگوریتم و ساختمان‌داده
 vertical visibility map |  | نقشه‌ی دید عمودی |  | الگوریتم و ساختمان‌داده
 vertices |  | رأس‌ها |  | الگوریتم و ساختمان‌داده
-vibrational  |  | وردشی   |  | پردازش سیگنال
 view  |  | نما، منظر  |  | پردازش سیگنال
 virtual  |  | مجازی   |  | پردازش سیگنال
 visibility map |  | نقشه‌ی دید |  | الگوریتم و ساختمان‌داده
@@ -3052,6 +3114,7 @@ visible  |  | قابل دیدن، مرئی   |  | پردازش سیگنال
 vision  |  | بینایی، دید  |  | پردازش سیگنال
 visual  |  | دیداری، بصری   |  | پردازش سیگنال
 Visual Descriptor |  | توصیف‌گر بصری |  | هوش مصنوعی
+Visual Search |  | جستجوی مصور |  | هوش مصنوعی
 visualization |  | بصری‌سازی | تجسم‌سازی | هوش مصنوعی
 Viterbi algorithm |  | الگوریتم ویتربی |  | هوش مصنوعی \| الگوریتم و ساختمان‌داده
 vocal cords | تارآواها | تارهای صوتی |  | هوش مصنوعی
@@ -3083,6 +3146,7 @@ weak equivalence |  | هم‌ارزی ضعیف |  | هوش مصنوعی
 weak-heap sort |  | مرتب‌ساز هرمی ضعیف  |  | الگوریتم و ساختمان‌داده
 web  |  | تار   | وب | پردازش سیگنال
 web crawler |  | خزنده وب |  | هوش مصنوعی
+Weight Decay |  | کاهش‌وزن |  | هوش مصنوعی
 weighted graph |  | گراف وزن‌دار |  | الگوریتم و ساختمان‌داده
 weighted, directed graph |  | گراف جهت‌دار وزن‌دار |  | الگوریتم و ساختمان‌داده
 weight vector |  | بردار وزن |  | هوش مصنوعی
@@ -3091,6 +3155,7 @@ white Gaussian noise |  | نویز سفید گاوسی |  | هوش مصنوعی
 white matter track |  | رشته ماده سفید |  | هوش مصنوعی
 whitening |  | سفیدسازی |  | هوش مصنوعی
 whitespace |  | فاصله |  | هوش مصنوعی
+Whole Slide Images (WSI) |  | تصاویر تمام اسلاید |  | هوش مصنوعی
 wideband |  | پهنباند |  | هوش مصنوعی
 Wiener Filter (WF) |  | فیلتر وینر |  | هوش مصنوعی
 wildcard | نویسه جایگزین | نویسه عام |  | هوش مصنوعی
